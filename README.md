@@ -6,3 +6,6 @@ exercise of react_native
 
 #### Run project via ios    
 `react-native run-ios`
+
+- ref 
+ [Official tutorial](https://facebook.github.io/react-native/docs/getting-started.html#content)
